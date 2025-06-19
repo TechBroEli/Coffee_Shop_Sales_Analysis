@@ -1,0 +1,11 @@
+transaction_id,transaction_date,transaction_time,transaction_qty,store_id,store_location,product_id,unit_price,product_category,product_type,product_detail
+1,01/01/2023,07:06:11,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+2,01/01/2023,07:08:56,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+3,01/01/2023,07:14:04,2,5,Lower Manhattan,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+4,01/01/2023,07:20:24,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+5,01/01/2023,07:22:41,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+6,01/01/2023,07:22:41,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+7,01/01/2023,07:25:49,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+8,01/01/2023,07:33:34,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+9,01/01/2023,07:39:13,1,5,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg
+10,01/01/2023,07:39:34,2,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
